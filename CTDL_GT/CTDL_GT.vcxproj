@@ -136,12 +136,18 @@
     <ClCompile Include="baitap.cpp" />
     <ClCompile Include="Baitap4.cpp" />
     <ClCompile Include="BT_dslk.cpp" />
+    <ClCompile Include="CayNhiPhan.cpp" />
+    <ClCompile Include="DanhSachKe.cpp" />
     <ClCompile Include="dslk.cpp" />
     <ClCompile Include="dslkd.cpp" />
     <ClCompile Include="Ds_LienKetDon.cpp" />
     <ClCompile Include="Ds_LienKetKep.cpp" />
+    <ClCompile Include="Matranke.cpp" />
     <ClCompile Include="Queue.cpp" />
-    <ClCompile Include="stack.cpp" />
+    <ClCompile Include="Queue_dslk.cpp" />
+    <ClCompile Include="selectionsort.cpp" />
+    <ClCompile Include="Stack.cpp" />
+    <ClCompile Include="Stack_dslk.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -7,14 +7,18 @@
   baitap.cpp
   Baitap4.cpp
   BT_dslk.cpp
+  CayNhiPhan.cpp
+  DanhSachKe.cpp
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\CTDL_GT\CTDL_GT\DanhSachKe.cpp(9,6): error C2086: 'char vertex[100]': redefinition
+D:\Users\ttthu\OneDrive\Documents\Repository\Github\CTDL_GT\CTDL_GT\DanhSachKe.cpp(4): message : see declaration of 'vertex'
   dslk.cpp
   dslkd.cpp
   Ds_LienKetDon.cpp
   Ds_LienKetKep.cpp
+  Matranke.cpp
   Queue.cpp
-  stack.cpp
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  CTDL_GT.vcxproj -> D:\Users\ttthu\OneDrive\Documents\Repository\Github\CTDL_GT\x64\Release\CTDL_GT.exe
+  Queue_dslk.cpp
+  selectionsort.cpp
+  Stack.cpp
+  Compiling...
+  Stack_dslk.cpp
