@@ -142,7 +142,9 @@
     <ClCompile Include="dslkd.cpp" />
     <ClCompile Include="Ds_LienKetDon.cpp" />
     <ClCompile Include="Ds_LienKetKep.cpp" />
+    <ClCompile Include="Kruskal.cpp" />
     <ClCompile Include="Matranke.cpp" />
+    <ClCompile Include="Prim.cpp" />
     <ClCompile Include="Queue.cpp" />
     <ClCompile Include="Queue_dslk.cpp" />
     <ClCompile Include="selectionsort.cpp" />

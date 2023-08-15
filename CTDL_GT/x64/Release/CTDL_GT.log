@@ -1,24 +1,7 @@
-﻿  Bai1.cpp
-  bai2.cpp
-  bai3.cpp
-  bai4.cpp
-  bai5.cpp
-  bai6.cpp
-  baitap.cpp
-  Baitap4.cpp
-  BT_dslk.cpp
-  CayNhiPhan.cpp
-  DanhSachKe.cpp
-D:\Users\ttthu\OneDrive\Documents\Repository\Github\CTDL_GT\CTDL_GT\DanhSachKe.cpp(9,6): error C2086: 'char vertex[100]': redefinition
-D:\Users\ttthu\OneDrive\Documents\Repository\Github\CTDL_GT\CTDL_GT\DanhSachKe.cpp(4): message : see declaration of 'vertex'
-  dslk.cpp
-  dslkd.cpp
-  Ds_LienKetDon.cpp
-  Ds_LienKetKep.cpp
-  Matranke.cpp
-  Queue.cpp
-  Queue_dslk.cpp
-  selectionsort.cpp
-  Stack.cpp
-  Compiling...
-  Stack_dslk.cpp
+﻿  Prim.cpp
+  Generating code
+  6 of 158 functions ( 3.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CTDL_GT.vcxproj -> D:\Users\ttthu\OneDrive\Documents\Repository\Github\CTDL_GT\x64\Release\CTDL_GT.exe
